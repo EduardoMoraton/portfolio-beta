@@ -1,6 +1,6 @@
 {
   "name": "github-react-portfolio-template",
-  "homepage": "https://EduardoMoraton.github.io/portfolo-beta/",
+  "homepage": "https://eduardomoraton.github.io/portfolio-beta/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -22,7 +22,7 @@
   },
   "devDependencies": {
     "gh-pages": "^5.0.0",
-    "react-scripts": "^5.0.1"
+    "react-scripts": "^2.1.3"
   },
   "scripts": {
     "predeploy": "npm run build",
