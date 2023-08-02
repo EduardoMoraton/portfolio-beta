@@ -1,5 +1,6 @@
 import { useAppContext } from "../appContext";
 import { Element } from "react-scroll";
+import React  from 'react';
 // Data
 import { skillData, resume } from "../data";
 // Components

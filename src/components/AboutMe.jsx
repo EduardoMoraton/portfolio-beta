@@ -2,6 +2,7 @@ import styled from "styled-components";
 import { useSelector } from "react-redux";
 import { selectData } from "../pages/homeSlice";
 import { Element } from "react-scroll";
+import React  from 'react';
 // Data
 import { moreInfo } from "../data";
 // Components

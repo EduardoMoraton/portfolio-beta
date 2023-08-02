@@ -2,6 +2,7 @@ import { useSelector } from "react-redux";
 import { selectData } from "../pages/homeSlice";
 import { Link } from "react-scroll";
 import styled from "styled-components";
+import React  from 'react';
 // Icons
 import { Icon } from "@iconify/react";
 // Media
